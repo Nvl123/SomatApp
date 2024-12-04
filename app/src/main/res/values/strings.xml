@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SomatApp</string>
+    <string name="intro1">Ready to Grow The Best Tomatoes?</string>
+    <string name="intro2">Shoot your leaf and see the result !!🌿</string>
+    <string name="intro3">Discover more about your issues with  --- powered by Gemini-AI 💬</string>
+    <string name="desc1">Let’s embark  on an exciting gardening journey together with Somat app!</string>
+    <string name="desc2">Snap a photo and effortlessly detect tomato disease in an instant-give it a try now!</string>
+    <string name="desc3">Share your challenges and discover  the best solutions together  with ____  let’s tackle your gardening  issues as a team!</string>
+    <string name="next">Next</string>
+
+</resources>

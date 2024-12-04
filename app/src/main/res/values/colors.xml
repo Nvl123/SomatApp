@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pr120">#E5F4EB</color>
+    <color name="pr110">#D0EBDC</color>
+    <color name="pr100">#bce1cc</color>
+    <color name="pr90">#a8d8bc</color>
+    <color name="pr80">#7fc69d</color>
+    <color name="pr70">#57b37d</color>
+    <color name="pr60">#2ea15e</color>
+    <color name="pr50">#25814b</color>
+    <color name="pr40">#1c6138</color>
+    <color name="pr30">#124026</color>
+    <color name="pr20">#0e301c</color>
+    <color name="pr10">#092013</color>
+    <color name="pr00">#051009</color>
+
+    <color name="Success">#04aa29</color>
+    <color name="Warning">#f0bd07</color>
+    <color name="Error">#f04438</color>
+
+    <color name="ne90">#241f1f</color>
+    <color name="n80">#372f2f</color>
+    <color name="n70">#5d5050</color>
+    <color name="n60">#897676</color>
+    <color name="n50">#b1a4a4</color>
+    <color name="n40">#b3b3b3</color>
+    <color name="n30">#d9d9d9</color>
+    <color name="n20">#ededed</color>
+    <color name="n10">#f5f5f5</color>
+    <color name="n00">#ffffff</color>
+
+
+
+</resources>
