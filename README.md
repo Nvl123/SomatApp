@@ -1,73 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dokumentasi SOMAT</title>
-</head>
-<body>
-    <h1>SOMAT - Sobat Tomat</h1>
+# SOMAT - Sobat Tomat
 
-    <h2>Deskripsi Aplikasi</h2>
-    <p><strong>SOMAT (Sobat Tomat)</strong> adalah aplikasi Android yang dirancang untuk membantu petani tomat mengidentifikasi penyakit atau hama yang menyerang tanaman mereka. Dengan memanfaatkan teknologi <strong>Machine Learning (ML)</strong> dan integrasi dengan <strong>API Gemini AI</strong>, aplikasi ini memberikan diagnosis penyakit atau hama serta rekomendasi penanganan dan pencegahan yang akurat.</p>
+## Deskripsi Aplikasi
+**SOMAT (Sobat Tomat)** adalah aplikasi Android yang dirancang untuk membantu petani tomat mengidentifikasi penyakit atau hama yang menyerang tanaman mereka. Dengan memanfaatkan teknologi **Machine Learning (ML)** dan integrasi dengan **API Gemini AI**, aplikasi ini memberikan diagnosis penyakit atau hama serta rekomendasi penanganan dan pencegahan yang akurat.
 
-    <hr>
+---
 
-    <h2>Fitur Utama</h2>
-    <ul>
-        <li><strong>Identifikasi Penyakit atau Hama pada Tanaman Tomat:</strong> Menganalisis gambar daun tomat untuk memberikan hasil diagnosa dan rekomendasi penanganan.</li>
-        <li><strong>Informasi Cuaca:</strong> Memberikan informasi cuaca terkini berdasarkan lokasi pengguna.</li>
-        <li><strong>Riwayat Diagnosa:</strong> Menampilkan histori gambar dan hasil analisis sebelumnya.</li>
-        <li><strong>Personalisasi Profil:</strong> Mengubah nama, foto profil, dan preferensi pengguna.</li>
-        <li><strong>Autentikasi:</strong> Login melalui server, Google, atau nomor HP.</li>
-    </ul>
+## Fitur Utama
+- **Identifikasi Penyakit atau Hama pada Tanaman Tomat:** Menganalisis gambar daun tomat untuk memberikan hasil diagnosa dan rekomendasi penanganan.
+- **Informasi Cuaca:** Memberikan informasi cuaca terkini berdasarkan lokasi pengguna.
+- **Riwayat Diagnosa:** Menampilkan histori gambar dan hasil analisis sebelumnya.
+- **Personalisasi Profil:** Mengubah nama, foto profil, dan preferensi pengguna.
+- **Autentikasi:** Login melalui server, Google, atau nomor HP.
 
-    <hr>
+---
 
-    <h2>Dokumentasi Visual</h2>
+## Dokumentasi Visual
 
-    <h3>1. Video Demonstrasi</h3>
-    <video width="640" height="360" controls>
-        <source src="https://drive.google.com/uc?id=15VKUTnkWQEOH9V9q2gO_bPMMN-pTwihA" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+### 1. Video Demonstrasi
+[Klik di sini untuk melihat video demonstrasi](https://drive.google.com/uc?id=15VKUTnkWQEOH9V9q2gO_bPMMN-pTwihA)
 
-    <h3>2. Screenshot Aplikasi</h3>
-    <div>
-        <h4>Halaman Utama</h4>
-        <img src="https://drive.google.com/uc?id=1WpF0ilu8OsjB9OPf1suA93opi1xHCe1k" alt="Halaman Utama" width="300">
+### 2. Screenshot Aplikasi
+#### Halaman Utama
+![Halaman Utama](https://drive.google.com/uc?id=1WpF0ilu8OsjB9OPf1suA93opi1xHCe1k)
 
-        <h4>Menu Scan Gambar</h4>
-        <img src="https://drive.google.com/uc?id=1fuV9a_ZOUS57BrUTuefrzY_qJyv2tv4f" alt="Menu Scan Gambar" width="300">
+#### Menu Scan Gambar
+![Menu Scan Gambar](https://drive.google.com/uc?id=1fuV9a_ZOUS57BrUTuefrzY_qJyv2tv4f)
 
-        <h4>Hasil Diagnosa</h4>
-        <img src="https://drive.google.com/uc?id=10QDLcUL5CbsR0x-RyEdxHFP1bymCLgOA" alt="Hasil Diagnosa" width="300">
+#### Hasil Diagnosa
+![Hasil Diagnosa](https://drive.google.com/uc?id=10QDLcUL5CbsR0x-RyEdxHFP1bymCLgOA)
 
-        <h4>Riwayat Diagnosa</h4>
-        <img src="https://drive.google.com/uc?id=18dKQJHPPzLC9ZDqtiKX9_b-Iypc_AwxJ" alt="Riwayat Diagnosa" width="300">
+#### Riwayat Diagnosa
+![Riwayat Diagnosa](https://drive.google.com/uc?id=18dKQJHPPzLC9ZDqtiKX9_b-Iypc_AwxJ)
 
-        <h4>Personalisasi Profil</h4>
-        <img src="https://drive.google.com/uc?id=1549_S9DQNzjrOHuT95xwys617dy9_0DH" alt="Personalisasi Profil" width="300">
-    </div>
+#### Personalisasi Profil
+![Personalisasi Profil](https://drive.google.com/uc?id=1549_S9DQNzjrOHuT95xwys617dy9_0DH)
 
-    <hr>
+---
 
-    <h2>Tim Pengembang</h2>
-    <ul>
-        <li><strong>Aaron Nathanael Gunawan:</strong> Machine Learning</li>
-        <li><strong>Richard Antholin Dharmawan:</strong> Machine Learning</li>
-        <li><strong>Wilson Leonardo:</strong> Machine Learning</li>
-        <li><strong>Bayu Setya Aji:</strong> Cloud Computing</li>
-        <li><strong>Komang Wahyu Sri Adijaya:</strong> Cloud Computing</li>
-        <li><strong>Moh. Novil Ma'Arij:</strong> Android Developer</li>
-        <li><strong>Zulfa Afifah Rohmaniyah:</strong> Android Developer</li>
-    </ul>
+## Tim Pengembang
+- **Aaron Nathanael Gunawan:** Machine Learning
+- **Richard Antholin Dharmawan:** Machine Learning
+- **Wilson Leonardo:** Machine Learning
+- **Bayu Setya Aji:** Cloud Computing
+- **Komang Wahyu Sri Adijaya:** Cloud Computing
+- **Moh. Novil Ma'Arij:** Android Developer
+- **Zulfa Afifah Rohmaniyah:** Android Developer
 
-    <hr>
+---
 
-    <h2>Kontak</h2>
-    <p>Email: <a href="mailto:mohnovilm@gmail.com">mohnovilm@gmail.com</a></p>
-    <p>Email: <a href="mailto:zulfafifah18@gmail.com">zulfafifah18@gmail.com</a></p>
-    <p>Media Sosial: <a href="https://www.instagram.com/me_ezpzy/">me_ezpzy</a> | <a href="https://www.instagram.com/zulfafrr/">zulfafrr</a></p>
-</body>
-</html>
+## Kontak
+- Email: [mohnovilm@gmail.com](mailto:mohnovilm@gmail.com)
+- Email: [zulfafifah18@gmail.com](mailto:zulfafifah18@gmail.com)
+- Media Sosial: [Instagram - me_ezpzy](https://www.instagram.com/me_ezpzy/) | [Instagram - zulfafrr](https://www.instagram.com/zulfafrr/)
