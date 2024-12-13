@@ -22,7 +22,8 @@
 ### 2. Screenshot Aplikasi
 | Halaman Utama | Hasil Diagnosa | Riwayat Diagnosa | Personalisasi Profil | Menu Scan |
 |---------------|----------------|------------------|-----------------------|-----------|
-| ![Halaman Utama](https://drive.google.com/uc?id=1WpF0ilu8OsjB9OPf1suA93opi1xHCe1k) | ![Hasil Diagnosa](https://drive.google.com/uc?id=10QDLcUL5CbsR0x-RyEdxHFP1bymCLgOA) | ![Riwayat Diagnosa](https://drive.google.com/uc?id=18dKQJHPPzLC9ZDqtiKX9_b-Iypc_AwxJ) | ![Personalisasi Profil](https://drive.google.com/uc?id=1549_S9DQNzjrOHuT95xwys617dy9_0DH) | ![Menu Scan](https://drive.google.com/file/d/1dOkcmvoiy-dqfiHYTLSv8QD9pvkV8BOK) |
+| ![Halaman Utama](https://drive.google.com/uc?id=1WpF0ilu8OsjB9OPf1suA93opi1xHCe1k) | ![Hasil Diagnosa](https://drive.google.com/uc?id=10QDLcUL5CbsR0x-RyEdxHFP1bymCLgOA) | ![Riwayat Diagnosa](https://drive.google.com/uc?id=18dKQJHPPzLC9ZDqtiKX9_b-Iypc_AwxJ) | ![Personalisasi Profil](https://drive.google.com/uc?id=1549_S9DQNzjrOHuT95xwys617dy9_0DH) | ![Menu Scan](https://drive.google.com/uc?id=1dOkcmvoiy-dqfiHYTLSv8QD9pvkV8BOK) |
+
 
 
 
